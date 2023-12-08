@@ -1,0 +1,22 @@
+tgraph
+
+# Mac OS
+.DS_Store
+
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Temporary files
+*.out
+*.test
+
+# Output files
+*.log
+*.svg
+
+# IDE-specific directories
+.idea/
+.vscode/
